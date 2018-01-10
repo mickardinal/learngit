@@ -34,3 +34,11 @@ Switched to branch 'dev'
 
 `git branch`列出所有分支，当前分支会标记`*`
 
+`git branch <name>`创建分支
+
+`git checkout <name>`切换分支
+
+`git merge <name>`合并某分支到当前分支
+
+`git branch -d <name>`删除分支
+
